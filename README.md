@@ -6,7 +6,9 @@ Adds rake test sub task.
 rake test:policies
 ```
 
-Extends pundit generators.
+Generate `test/policies` directory, when running policy:install.
+
+New generator template of policy test.
 
 Provides some test helpers.
 
