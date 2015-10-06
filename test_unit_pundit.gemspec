@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'test_unit_pundit'
-  s.version = '0.2.0'
+  s.version = '0.3.0'
   s.summary = 'Test::Unit support for Pundit'
   s.description = 'Test::Unit support for Pundit'
   s.homepage = 'https://github.com/cqc1008/test_unit_pundit'
